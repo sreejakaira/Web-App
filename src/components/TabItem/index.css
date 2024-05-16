@@ -1,1 +1,24 @@
 /* Write your CSS here */
+/* Write your CSS here */
+/* Write your CSS here */
+.tab-item-container {
+  background-color: transparent;
+  margin-top: 20px;
+  margin-left: 5px;
+  padding: 10px;
+  list-style-type: none;
+}
+
+.tab-button {
+  background-color: transparent;
+  border: 0px;
+  font-size: 24px;
+  color: #7b8794;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.active-tab-button {
+  color: #2563eb;
+  margin-left: 15px;
+}

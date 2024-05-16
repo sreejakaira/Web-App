@@ -29,6 +29,9 @@
   .search-input-container {
     max-width: 450px;
   }
+  .tabs-list {
+    margin-top: 48px;
+  }
 }
 
 .search-input-container {
@@ -59,4 +62,10 @@
 .search-icon {
   width: 24px;
   height: 24px;
+}
+.tabs-list {
+  display: flex;
+  align-items: flex-end;
+  padding-left: 0px;
+  margin-top: 32px;
 }
